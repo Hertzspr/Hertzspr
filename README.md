@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @Hertzspr
 - 👀 I’m interested in Data Science
-- 🌱 I’m currently learning R and Football Analytics
-- 💞️ I’m looking to collaborate on solving problems in football
 - 📫 Reach me via husadahertzsprung@gmail.com
 
 <!---
